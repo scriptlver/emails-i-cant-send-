@@ -1,27 +1,30 @@
-@import url('https://fonts.googleapis.com/css2?family=Baskervville&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baskervville&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
 body{
-    background-color: blanchedalmond;
+    background-color: #f0dcca;
 }
 
 
  .re{
     font-size: 3.5em;
     text-align: center;
-    color: #8b0000;
+    color: #732210;
 }
 
  .biografia{
-    font-size: 1em;
+    font-size: 1.2em;
     text-align: center;
-    font-family:'Baskervville', sans-serif;
+    font-style: regular;
+    font-family:'EB Garamond', sans-serif;
     width:80%;
     margin: 0 auto;
-    color: #696969}
+    color: #696969
+}
 
 .font{
-    font-size: 2em;
+    font-size: 2.5em;
     text-align: center;
-    color: darkred
+    color: #732210
 }
 
 .fotos {
@@ -31,6 +34,6 @@ body{
 }
 
 .foto {
-    width: 15%;
+    width: 25%;
     height: auto;
 }
