@@ -27,6 +27,12 @@ body{
     color: #732210
 }
 
+.sobre{
+        font-size: 2.5em;
+        text-align: center;
+        color: #732210
+}
+
 .fotos {
     display: flex;
     justify-content: center; 
@@ -36,4 +42,40 @@ body{
 .foto {
     width: 25%;
     height: auto;
+}
+
+.capa {
+    width: 50%;
+    height: auto;
+    margin: 0 auto;
+    display: block; 
+}
+
+.cover {
+    font-size: 1em;
+    text-align: center;
+    color: #732210;
+    margin-top: 20px;
+}
+
+.tempo {
+    font-size: 1.3em;
+    text-align: center;
+    color: #732210;
+}
+
+.meses {
+    text-align: center;
+    margin-top: -10px;
+
+}
+
+.descricao {
+    font-size: 1.2em;
+    text-align: center;
+    font-style: regular;
+    font-family:'EB Garamond', sans-serif;
+    width:80%;
+    margin: 0 auto;
+    color: #696969
 }
