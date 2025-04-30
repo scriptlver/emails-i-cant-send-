@@ -2,28 +2,27 @@ body{
     background-color: blanchedalmond;
 }
 
+
  .re{
     font-size: 3.5em;
     text-align: center;
     color: darkred
 }
 
-.sabrina-1 {
-    width: 15%;
-    height: auto;
-    display: block;
-    margin-left: 350px;
-    margin-right: auto;
-    object-fit: cover;
+.font{
+    font-size: 2em;
+    text-align: center;
+    color: darkred
 }
 
-.sabrina-2 {
+.fotos {
+    display: flex;
+    justify-content: center; 
+    gap: 10px; 
+}
+
+.foto {
     width: 15%;
     height: auto;
-    display: block;
-    margin-top: -227.5px;
-    margin-left: auto;
-    margin-right: auto;
-    object-fit: cover;
-  }
-  
+}
+
