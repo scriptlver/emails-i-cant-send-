@@ -2,6 +2,7 @@
 
 body{
     background-color: #f0dcca;
+    margin: 0;
 }
 
 
@@ -18,26 +19,6 @@ body{
     margin-top: -20px
 }  
 
- /* Estilo para o menu */
-.navbar {
-    background: rgba(0, 0, 0, 0.7); /* Fundo escuro com mais opacidade */
-    backdrop-filter: blur(5px); /* Efeito de desfoque */
-}
-
-.navbar a {
-    transition: color 0.3s;
-}
-
-.navbar a:hover {
-    color: #64b5f6;
-}
-
-.info-section p {
-    font-size: 1rem;
-}
-
-
-
  .biografia{
     font-size: 1.2em;
     text-align: center;
@@ -47,6 +28,7 @@ body{
     margin: 0 auto;
     color: #696969
 }
+
 
 .font{
     font-size: 2.5em;
@@ -67,8 +49,26 @@ body{
     justify-content: left;
 }
 
+nav {
+    background-color: #732210; 
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding: 20px; 
+}
+
+nav a {
+    color: #696969;
+    text-decoration: none; 
+    margin: 0 15px; 
+}
+
+nav a:hover { 
+    color: white; 
+}
+
 .bonus{
-    font-size: 1.8em;
+    font-size: 2.5em;
     text-align: center;
     color: #732210;
 }
@@ -223,12 +223,22 @@ body{
 }
 
 .curiosidades{
-    font-size: 0.9em;
+    font-size: 1.2em;
     text-align: center;
     font-style: regular;
     font-family:'EB Garamond', sans-serif;
     width:80%;
     margin: 0 auto;
-    margin-top: -40px;
+    margin-top: -10px;
     color: #696969;
 }
+
+.rodape {
+    background-color: #732210;
+    text-align: center;
+    padding: 28px;
+    position: relative;
+    width: 100%;
+  }
+
+  
