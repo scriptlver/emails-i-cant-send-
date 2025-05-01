@@ -12,6 +12,14 @@ body{
     color: #732210;
 }
 
+
+.ree{
+    font-size: 3.5em;
+    text-align: center;
+    color: #732210;
+    margin-top: -8px;
+}
+
 .letra1{
     font-size: 1.3em;
     text-align: center;
@@ -49,6 +57,7 @@ body{
     justify-content: left;
 }
 
+
 nav {
     background-color: #732210; 
     display: flex;
@@ -58,13 +67,13 @@ nav {
 }
 
 nav a {
-    color: #696969;
+    color: white;
     text-decoration: none; 
     margin: 0 15px; 
 }
 
 nav a:hover { 
-    color: white; 
+    color: #696969; 
 }
 
 .bonus{
@@ -235,10 +244,20 @@ nav a:hover {
 
 .rodape {
     background-color: #732210;
+    color: white;
     text-align: center;
-    padding: 28px;
+    padding: 20px;
     position: relative;
+    bottom: 0;
     width: 100%;
   }
+
+  .barra {
+    width: 100%;
+    height: 1px; 
+    background-color: #732210;
+    transform: scaleY(0.5); 
+    transform-origin: top;
+}
 
   
