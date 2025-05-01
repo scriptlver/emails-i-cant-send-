@@ -11,6 +11,14 @@ body{
     color: #732210;
 }
 
+.letra1{
+    font-size: 1.3em;
+    text-align: center;
+    color: #696969;
+    margin-top: -20px
+}    
+ 
+
  .biografia{
     font-size: 1.2em;
     text-align: center;
@@ -193,4 +201,15 @@ body{
     width:80%;
     margin: 0 auto;
     color: #696969
+}
+
+.curiosidades{
+    font-size: 0.9em;
+    text-align: center;
+    font-style: regular;
+    font-family:'EB Garamond', sans-serif;
+    width:80%;
+    margin: 0 auto;
+    margin-top: -40px;
+    color: #696969;
 }
