@@ -44,11 +44,31 @@ body{
     height: auto;
 }
 
+.fotoss {
+    display: flex;
+    justify-content: center; 
+    gap: 10px; 
+}
+.foto {
+    width: 25%;
+    height: auto;
+}
+
 .capa {
     width: 50%;
     height: auto;
     margin: 0 auto;
     display: block; 
+}
+
+.sim {
+    display: flex;
+    justify-content: center; 
+    gap: 10px; 
+}
+.foto {
+    width: 25%;
+    height: auto;
 }
 
 .cover {
@@ -64,10 +84,70 @@ body{
     color: #732210;
 }
 
+.genero{
+    font-size: 1.3em;
+    text-align: center;
+    color: #732210;
+    margin-top: 20px;
+}
+
+.tipos {
+    text-align: center;
+    margin-top: -10px;
+}
+
 .meses {
     text-align: center;
     margin-top: -10px;
 
+}
+
+.duração {
+    font-size: 1.3em;
+    text-align: center;
+    color: #732210;
+    margin-top: 20px;
+}
+
+.gravadora {
+    font-size: 1.3em;
+    text-align: center;
+    color: #732210;
+    margin-top: 20px;
+}
+
+.produtores {
+    font-size: 1.3em;
+    text-align: center;
+    color: #732210;
+    margin-top: 20px;
+}
+
+.relato{
+    font-size: 1.5em;
+    text-align: center;
+    color: #732210;
+}
+
+.relat{
+    text-align: center;
+    margin-top: -10px;
+    color:#732210;
+}
+
+.prod {
+    text-align: center;
+    margin-top: -10px;
+}
+
+.grav {
+    text-align: center;
+    margin-top: -10px;
+}
+
+.dur {
+    text-align: center;
+    margin-top: -10px;
 }
 
 .descricao {
