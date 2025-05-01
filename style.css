@@ -33,6 +33,41 @@ body{
         color: #732210
 }
 
+.faixas{
+    font-size: 2.5em;
+    text-align: center;
+    color: #732210;
+    justify-content: left;
+}
+
+.bonus{
+    font-size: 1.8em;
+    text-align: center;
+    color: #732210;
+}
+
+.completo{
+    font-size: 2.5em;
+    text-align: center;
+    color: #732210;
+    margin-top: 20px;
+}
+
+.tracklist{
+    font-size: 1.5em;
+    text-align: center;
+    color: #696969;
+    margin-top: -30px;
+}
+
+.musicas{
+    font-size: 1.5em;
+    text-align: center;
+    color: #696969;
+    margin-top: -30px;
+}
+
+
 .fotos {
     display: flex;
     justify-content: center; 
@@ -67,7 +102,7 @@ body{
     gap: 10px; 
 }
 .foto {
-    width: 25%;
+    width: 20%;
     height: auto;
 }
 
@@ -124,7 +159,7 @@ body{
 }
 
 .relato{
-    font-size: 1.5em;
+    font-size: 1.2em;
     text-align: center;
     color: #732210;
 }
