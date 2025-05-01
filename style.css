@@ -16,8 +16,27 @@ body{
     text-align: center;
     color: #696969;
     margin-top: -20px
-}    
- 
+}  
+
+ /* Estilo para o menu */
+.navbar {
+    background: rgba(0, 0, 0, 0.7); /* Fundo escuro com mais opacidade */
+    backdrop-filter: blur(5px); /* Efeito de desfoque */
+}
+
+.navbar a {
+    transition: color 0.3s;
+}
+
+.navbar a:hover {
+    color: #64b5f6;
+}
+
+.info-section p {
+    font-size: 1rem;
+}
+
+
 
  .biografia{
     font-size: 1.2em;
