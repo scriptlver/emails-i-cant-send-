@@ -6,7 +6,7 @@ body{
 }
 
 
- .re{
+.re{
     font-size: 3.5em;
     text-align: center;
     color: #732210;
@@ -14,10 +14,10 @@ body{
 
 
 .ree{
-    font-size: 3.5em;
+    font-size: 3em;
     text-align: center;
     color: #732210;
-    margin-top: -8px;
+    margin-top: 20px;
 }
 
 .letra1{
@@ -48,6 +48,12 @@ body{
         font-size: 2.5em;
         text-align: center;
         color: #732210
+}
+
+.letra{
+    font-size: 2.5em;
+    text-align: center;
+    color: #732210;
 }
 
 .faixas{
