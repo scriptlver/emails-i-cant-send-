@@ -26,7 +26,10 @@ fiz tudo com muito carinho, explorando e aprendendo mais sobre HTML e CSS. esper
 você pode visitar o projeto aqui:  
 🔗 https://scriptlver.github.io/as-she-pleases-fanmade-site/
 
-
+## 📸 prévias  
+![screenshot 1](screenshots/print1.png)  
+![screenshot 2](screenshots/print2.png)  
+![screenshot 3](screenshots/print3.png)
 
 ## 🤝 contribuições  
 ideias e sugestões são super bem-vindas! 🌷
