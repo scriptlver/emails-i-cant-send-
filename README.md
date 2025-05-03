@@ -24,7 +24,8 @@ fiz tudo com muito carinho, explorando e aprendendo mais sobre HTML e CSS. esper
 
 ## 🌐 acesso ao site  
 você pode visitar o projeto aqui:  
-🔗[(https://scriptlver.github.io/emails-i-cant-send-/](https://scriptlver.github.io/emails-i-cant-send-/)
+🔗[emails i can’t send](https://scriptlver.github.io/emails-i-cant-send-/)
+
 
 ## 📸 prévias  
 ![screenshot 1](readme/1.png)  
